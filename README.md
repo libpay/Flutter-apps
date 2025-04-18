@@ -1,42 +1,16 @@
- تطبيق Teofin المحسن
+# teofin_app
 
-هذا المستودع يحتوي على النسخة المحسنة من تطبيق Teofin مع واجهة مستخدم متطورة وتنقل سلس بين الشاشات.
+A new Flutter project.
 
-## المميزات الرئيسية
+## Getting Started
 
-### شاشة البداية
-- شاشة بداية سوداء خالية عند فتح التطبيق
-- تأثيرات انتقالية سلسة وجذابة
-- شريط تقدم متحرك أثناء التحميل
+This project is a starting point for a Flutter application.
 
-### تسجيل الدخول
-- واجهة تسجيل دخول محسنة وسهلة الاستخدام
-- خيارات استعادة كلمة المرور
-- تحقق من الهوية بخطوتين
+A few resources to get you started if this is your first Flutter project:
 
-### التنقل بين الشاشات
-- انتقال سلس بين جميع شاشات التطبيق
-- قائمة تنقل سفلية سهلة الاستخدام
-- تأثيرات انتقالية متناسقة
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-### التصميم العام
-- واجهة مستخدم عصرية وجذابة
-- ألوان متناسقة وخطوط واضحة
-- تجربة مستخدم محسنة
-
-## الملفات الرئيسية
-- **lib/screens/splash/splash_screen.dart**: شاشة البداية السوداء مع تأثيرات انتقالية
-- **lib/screens/auth/login_screen.dart**: شاشة تسجيل الدخول المحسنة
-- **lib/navigation/app_router.dart**: نظام التنقل بين الشاشات
-- **lib/theme/app_theme.dart**: تعريفات التصميم والألوان
-
-## كيفية الاستخدام
-1. قم بتنزيل الملف المضغوط teofin_improved.zip
-2. فك ضغط الملف
-3. افتح المشروع باستخدام Flutter
-4. قم ببناء التطبيق للمنصة المطلوبة (Android/iOS)
-
-## متطلبات النظام
-- Flutter 2.0 أو أحدث
-- Dart 2.12 أو أحدث
-- Android Studio / VS Code
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
